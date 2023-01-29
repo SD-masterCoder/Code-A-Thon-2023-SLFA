@@ -3,5 +3,4 @@ Project By: Shravan Devraj, Audrey Cheah, Santhosh Thanikachalam, David Martinez
 .....Mentor: Roy Luengas
 .....Project done at the Code-A-Thon 2023......
 Project name: Sign Language For All (SLFA)
-......Here is the link to a copy of our presentation: https://docs.google.com/presentation/d/1s_RX6Z4RSMU237dBY6ygAFVTfvjzDeEXK0cgDWMQwfg/edit?usp=sharing 
-
+......Here is the link to our website: https://a-byron223.github.io/ 
