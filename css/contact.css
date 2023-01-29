@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap");
+
+html{
+    font-family: Nunito;
+    font-size: 15px;
+}
+
+body{
+    margin: 5px;
+    letter-spacing: 1.1px;
+    background-color: beige!important;
+}
+nav a {
+  padding:15px;
+  padding-bottom:4px;
+  font-size: 1.8em;
+  text-decoration: none !important;
+  color:black;
+}
+
+nav a:hover {
+  border-bottom:2px orange solid;
+  color:black;
+  font-size: 2em;
+  transition: .9s;
+}
+
+.style_contact, .button_green{
+    background: rgb(106, 204, 0);
+}
+
+.button__green:hover{
+  background-color: rgba(106, 204, 0, 0.8);
+  box-shadow: 2px 2px 8px 4px grey;
+  cursor: pointer;
+  transition: box-shadow 0.5s ease-in;
+}
